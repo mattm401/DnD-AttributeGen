@@ -2,7 +2,7 @@ package attributegen;
 
 public class BaseClass {
 
-    protected int[] _bonuses = {18, 15, 14, 10, 10, 8};
+    protected int[] _bonuses = {18, 14, 11, 10, 10, 8};
     protected int[] _ranks = {0, 1, 2};
 
     public int[] getBonuses() {
